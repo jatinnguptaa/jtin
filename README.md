@@ -1,2 +1,3 @@
 # jtin
-learning to use github
+learning to use github.
+hello world i am new at github
